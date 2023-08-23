@@ -1,5 +1,7 @@
 # Rurls - 在混杂的数据中提取每一行的url
 
+## 注意！！程序需要和data.txt放在同一目录下
+
 ## 测试：
 比如有一个混乱的数据：
 ![image](https://github.com/soryecker/Rurls/assets/46450756/007004ea-ce97-4829-9d44-ad5ff370ab86)
